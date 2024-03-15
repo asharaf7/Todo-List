@@ -23,8 +23,13 @@ todolistbyali.ccbp.tech
 ## Screenshots
 
 ![App Screenshot](https://res.cloudinary.com/dhsbfvjsl/image/upload/v1710512699/Screenshot_2024-03-15_193646_uvy6kb.png)
+
 ![App Screenshot](https://res.cloudinary.com/dhsbfvjsl/image/upload/v1710512957/Screenshot_2024-03-15_195804_tpyito.png)
 
+## Application Interface
+- This screenshot showcases the main interface of the Todo List Application. Users can view their list of todo items, add new items, mark items as complete, and delete items as needed.
+## Adding a Todo Item
+- In the above screenshot, we demonstrate the process of adding a new todo item to the list. Users can enter the task description in the input field and click the "Add" button to add the item to their todo list.
 ## FAQ
 
 #### How do I add a new todo item?
